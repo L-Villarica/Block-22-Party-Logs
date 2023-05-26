@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  background-color: bisque;
+}
+#party-container {
+  background-color: rgb(157, 184, 184);
+}
